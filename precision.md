@@ -24,7 +24,7 @@
     Java 11
 
 # Результат
-1. [Баг](https://github.com/VaughanGalvin/precision/issues/1) при использовании double-типов переменных.
+1. [Баг сложения при подсчете нового типа бонусов](https://github.com/VaughanGalvin/precision/issues/1) при использовании double-типов переменных.
 
 # Рекомендации
 
